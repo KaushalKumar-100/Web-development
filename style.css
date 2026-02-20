@@ -1,0 +1,14 @@
+div{
+    height:100px;
+    width:100px;
+    background-color:red;
+    transition-property:all;
+    transition-delay:2s;
+    transition-timing-function:ease-in;
+    transform:rotate(34deg);
+}
+div:hover{
+background-color:pink;
+height:200px;
+transform:scale(2,4);
+}

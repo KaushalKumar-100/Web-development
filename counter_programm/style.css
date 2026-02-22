@@ -1,0 +1,26 @@
+#counterlabel{
+    display:block;
+    text-align:centre;
+    font-size:10em;
+    font-family:helvetica;
+
+}
+#buttonContainer{
+    text-align:center;
+
+}
+.button{
+    padding:10px 20px;
+    font-size:1.5em;
+    color:white;
+    background-color:rgb(35, 86, 103);
+    border-radius:10px;
+    cursor:pointer;
+    transition:background-color 0.25s;
+
+
+}.button:hover{
+    background-color:rgb(6, 30, 39);
+    
+    
+}

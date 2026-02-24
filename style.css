@@ -1,4 +1,21 @@
+<<<<<<< HEAD
 button{
   font-size:4em;
   background-color:red;
 }
+=======
+div{
+    height:100px;
+    width:100px;
+    background-color:red;
+    transition-property:all;
+    transition-delay:2s;
+    transition-timing-function:ease-in;
+    transform:rotate(34deg);
+}
+div:hover{
+background-color:pink;
+height:200px;
+transform:scale(2,4);
+}
+>>>>>>> 1c2428141b50ac6f2bc50da9010e29e941db7dfd
